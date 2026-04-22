@@ -17,6 +17,14 @@ This project implements a short-term reversal trading strategy designed to explo
 - Volatility scaling provided the best performance
 - Regime filtering reduced risk but lowered returns
 - Combined strategy improved stability but did not outperform volatility scaling
+  ## Results
+
+| Strategy           | Sharpe Ratio |
+|--------------------|-------------|
+| Baseline           | 3.25        |
+| Volatility Scaled  | 4.10        |
+| Regime Filter      | 1.64        |
+| Combined           | 2.08        |
 
 ## Files
 - notebooks/: Python implementation

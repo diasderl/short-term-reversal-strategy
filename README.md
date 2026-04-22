@@ -1,5 +1,3 @@
-# short-term-reversal-strategy
-
 # Short-Term Reversal Strategy
 
 ## Overview
